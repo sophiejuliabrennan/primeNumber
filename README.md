@@ -1,0 +1,2 @@
+# primeNumber
+hackerrank solution
